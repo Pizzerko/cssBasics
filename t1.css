@@ -1,0 +1,9 @@
+tr.header{
+    background-color: #427fef;
+    color:white;
+    border-collapse: collapse;
+}
+
+.text:nth-child(even){
+background-color: lightcoral;
+}
