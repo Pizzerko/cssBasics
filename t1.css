@@ -7,3 +7,5 @@ tr.header{
 .text:nth-child(even){
 background-color: lightcoral;
 }
+
+/*I spent about half an hour on this. Creating the table was fairly simple, but coloring specific parts using selectors took longer.
